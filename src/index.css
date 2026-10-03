@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #080D1B;
+  --color-surface: #111A2E;
+  --color-surface-light: #1A243D;
+  --color-primary: #547BFF;
+  --color-primary-hover: #6b8dff;
+  --color-secondary: #9471FF;
+  --color-accent: #60DDF4;
+  --color-text: #F5F7FF;
+  --color-text-muted: #9BA3B5;
+  --font-sans: 'Inter', 'Manrope', 'Plus Jakarta Sans', sans-serif;
+  --animate-float: float 6s ease-in-out infinite;
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text antialiased;
+  }
+}

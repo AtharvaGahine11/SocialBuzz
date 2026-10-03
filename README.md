@@ -1,3 +1,4 @@
+
 # 🚀 SocialBuzz
 
 <p align="center">
@@ -271,7 +272,10 @@ SocialBuzz demonstrates an approval-gated publishing workflow. A production depl
 <p align="center">
   <strong>Atharva Gahine</strong><br/>
   B.Tech — Computer Science & Engineering<br/>
-  ITM Skills University
+  ITM Skills University<br/>
+  Course: Software Engineering & Project Management<br/>
+  Roll No: 150096724079<br/>
+  Case Study: No. 119
 </p>
 
 <p align="center">
